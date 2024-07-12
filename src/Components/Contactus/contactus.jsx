@@ -38,9 +38,9 @@ const contactus = () => {
             <h3>Send us Message <img src={msg_icon} alt="" /></h3>
             <p>Feel free to reach out thorught contact form Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maiores vel expedita quasi asperiores veniam Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, corporis?</p>
             <ul>
-                <li> <img src={mail_icon} alt="" />vivekchahar1960@gmail.com</li>
-                <li> <img src={phone_icon} alt="" />+91 8700348696</li>
-                <li> <img src={location_icon} alt="" />425 SF , Omaxe City Homes , Bahadurgarh , Haryana 124507</li>
+                <li> <img src={mail_icon} alt="" />paruldeswal1864@gmail.com</li>
+                <li> <img src={phone_icon} alt="" />+91 7988804273</li>
+                <li> <img src={location_icon} alt="" />424 SF , Omaxe City Homes , Bahadurgarh , Haryana 124507</li>
             </ul>
         </div>
         <div className="contact-col">
